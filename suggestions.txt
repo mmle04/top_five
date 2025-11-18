@@ -1,1 +1,1 @@
-
+1. I think that the code should require exactly 5 unique, non-empty items. Currently, it only checks that all inputs are filled, not checking any duplicates.
