@@ -23,5 +23,5 @@ To run the project locally, please use the following commands in your terminal (
 
 ## Names
 
-Michael Le
-Timothy Tran
+* Michael Le
+* Timothy Tran
