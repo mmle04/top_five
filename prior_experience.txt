@@ -1,3 +1,5 @@
 ## Prior Experience
 
 We both have had close to no prior CI/CD experience
+
+I’ve used GitHub Actions to automate build, test, and deployment workflows for a personal project, including setting up automated testing, container builds with Docker.
