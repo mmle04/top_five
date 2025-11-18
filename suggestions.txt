@@ -1,1 +1,3 @@
 1. I think that the code should require exactly 5 unique, non-empty items. Currently, it only checks that all inputs are filled, not checking any duplicates.
+
+2. As of right now, the UI lacks a lot of color. The page is entirely either white, black, or grey. It could use some color to make the application stand out a little bit more. This app is supposed to be a social media platform, so it should have more color.
